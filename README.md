@@ -6,7 +6,7 @@
 **Cohort:** 1 Mill Devs Cohort 2026
 
 ## How to Run
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tamara-Ajaluwa>/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tamara-Ajaluwa/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)  
 To run this notebook, click the badge above to open `stall_analysis.ipynb` directly in Google Colab, then select **Runtime > Run all**.
 
 ## Business Problem Summary
